@@ -1,3 +1,3 @@
 # Exploratory Data Analysis and Sale price prediction of Houses
-![Image of Yaktocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.giveamasterpiece.com%2Fhouse-portraits-from-photo.asp&psig=AOvVaw2YS-uosfiypvIQ_SBaLSi7&ust=1598467007274000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMil_ef_tusCFQAAAAAdAAAAABAD)
+![GitHub Logo](/images/house.jpg)
 The project consists of a dataset of 1460 unique houses and their 81 features such as their area, porch size, sunlight exposure, whether or not there is a bathtub and fireplace and much more which will be analysed to predict selling price of another 1459 houses. Initially EDA has been performed to check relation of sale price with all the features and then a clean up the data to fill up the null values and then different algorithms have been used to find their accuracy in prediction. The Dataset used is the Ames Housing dataset from Kaggle.
